@@ -1,0 +1,14 @@
+Color change -> color/?
+Clear-> cls
+Show file>dir
+Go another file->cd file name
+Hidden file-> 
+Show hidden file->
+Make folder->mkdir foldername name
+Back to folder ->cd..
+Delete folder -rm dir folder name
+make file - echo file name
+delete folder with document ->rm dir /s file name
+delete file -> del file name
+move folder -> move 
+show all drive -wmic logicaldisk get name
